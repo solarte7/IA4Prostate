@@ -7,5 +7,5 @@ This repository contains the code created for an information extraction tool for
 This tool was created as an integrative project within the Master's program in Data Analytics at the **Universidad del Valle** in Cali, Colombia.
 
 **Authors:**
-Juan David Solarte --> juan.david.solarte@correounivalle.edu.co
+Juan David Solarte --> juan.david.solarte@correounivalle.edu.co <br>
 Edison Daniel Banguera --> edinson.banguera@correounivalle.edu.co
