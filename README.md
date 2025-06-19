@@ -1,5 +1,5 @@
 # IA4Prostate
-An Artificial Intelligence Model for Extracting Prostate Cancer Information From Clinical Notes
+An Artificial Intelligence Model for **Extracting Prostate Cancer Information** From Clinical Notes written in Spanish.
 
 This repository contains the code created for an information extraction tool for prostate cancer. The tool uses a fine-tuning process using **transformer-based neural networks**.
 
